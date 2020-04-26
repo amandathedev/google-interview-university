@@ -13,7 +13,6 @@ sometimes word-for-word in Google's coaching notes.
 
 ## Table of Contents
 
-- [Get in a Googley Mood](#get-in-a-googley-mood)
 - [Did I Get the Job?](#did-i-get-the-job)
 - [Follow Along with Me](#follow-along-with-me)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -103,16 +102,6 @@ sometimes word-for-word in Google's coaching notes.
 - [Computer Science Courses](#computer-science-courses)
 
 ---
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Get in a Googley Mood
-
-Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
-
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
-
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## Don't feel you aren't smart enough
 - Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.

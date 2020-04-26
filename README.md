@@ -15,7 +15,6 @@ sometimes word-for-word in Google's coaching notes.
 
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Google](#about-google)
-- [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Before you Get Started](#before-you-get-started)
@@ -102,7 +101,6 @@ sometimes word-for-word in Google's coaching notes.
 ---
 
 ## Don't feel you aren't smart enough
-- Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
 ## About Google
@@ -252,9 +250,15 @@ Write code on a whiteboard, not a computer. Test with some sample inputs. Then t
 
 ## Prerequisite Knowledge
 
+- [ ] **Praxis Core Math:**
+    - [ ] [Khan Academy Math Lessons](https://www.khanacademy.org/test-prep/praxis-math/praxis-math-lessons)
+
 - [ ] **How computers process a program:**
     - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+    
+- [ ] **How the Internet works:**
+    - [ ] [How HTTP Requests work (video)](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 - [ ] **Compilers**
     - [ ] [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
